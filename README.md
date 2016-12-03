@@ -10,3 +10,6 @@ ALBERT CARMONA S.
 FREDERICK GONZALEZ M.
 
 ANDREA LOPEZ
+
+Se crea el programa para mostrar la funcionalidad de Jenkins en integración con SonarQube
+
